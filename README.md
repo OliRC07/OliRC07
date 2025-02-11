@@ -5,11 +5,11 @@
  
  <h2>👨‍💻 Cybersecurity projects :</h2>
 
- - [Hello world! (coding tutorial I could do?)](https://github.com/OliRC07/agile-final-project)
+ - [Hello world! (coding tutorial I could do?)]([https://github.com/OliRC07/agile-final-project](https://github.com/OliRC07/CybersecProject/tree/main))
  
 <b>🐍 Python :</b>  
-- [My Lab](https://github.com/OliRC07/agile-final-project)
-- [My Lab](https://github.com/OliRC07/agile-final-project)
+- [My Lab]([https://github.com/OliRC07/agile-final-project](https://github.com/OliRC07/CybersecProject/tree/main))
+- [My Lab]([https://github.com/OliRC07/agile-final-project](https://github.com/OliRC07/CybersecProject/tree/main))
 
 <h2>🎓 Certifications and diplomas </h2>
 
