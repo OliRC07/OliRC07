@@ -5,7 +5,7 @@
  
  <h2>👨‍💻 Cybersecurity projects :</h2>
 
- - [Hello world! (coding tutorial I could do?)](https://github.com/OliRC07/CybersecProject/tree/main)
+ - [Security audit - _Botium Toys_](https://github.com/OliRC07/BotiumToysAudit)
  
 <b>🐍 Python :</b>  
 - [My Lab](https://github.com/OliRC07/CybersecProject/tree/main)
