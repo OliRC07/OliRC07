@@ -13,9 +13,9 @@
 
 <h2>🎓 Certifications and diplomas </h2>
 
-- Google Cybersecurity Professional Certificate
+- Google Cybersecurity Professional Certificate (course ongoing) 
 - MBA at Kedge Business School
-- IBM Introduction to Agile and Scrum
+- IBM Introduction to Agile and Scrum Certificate
 
 <h2> 🤳 Connect with me:</h2>
 
