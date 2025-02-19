@@ -6,6 +6,7 @@
  <h2>👨‍💻 Cybersecurity projects :</h2>
 
  - [Security audit - _Botium Toys_](https://github.com/OliRC07/BotiumToysAudit)
+ - [Network traffic analysis - _Yummy Recipes_](https://github.com/OliRC07/IncidentReport-NetworkTrafficAnalysis)
  
 <b>🐍 Python :</b>  
 - [My Lab](https://github.com/OliRC07/CybersecProject/tree/main)
