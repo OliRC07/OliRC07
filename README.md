@@ -7,7 +7,7 @@
 
  - [Security audit - _Botium Toys_](https://github.com/OliRC07/BotiumToysAudit)
  - [Network traffic analysis - _Yummy Recipes_](https://github.com/OliRC07/IncidentReport-NetworkTrafficAnalysis)
- - [NIST activity](https://github.com/OliRC07/NIST-activity)
+ - [NIST activity - _Incident report analysis_](https://github.com/OliRC07/NIST-activity)
  
 
 <h2>🎓 Certifications and diplomas </h2>
