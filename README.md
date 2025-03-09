@@ -5,10 +5,10 @@
  
  <h2>👨‍💻 Cybersecurity projects :</h2>
 
- - [Security audit - _Botium Toys_](https://github.com/OliRC07/BotiumToysAudit)
- - [Network traffic analysis - _Yummy Recipes_](https://github.com/OliRC07/IncidentReport-NetworkTrafficAnalysis)
+ - [Security audit](https://github.com/OliRC07/BotiumToysAudit)
+ - [Network traffic analysis](https://github.com/OliRC07/IncidentReport-NetworkTrafficAnalysis)
  - [NIST activity - _Incident report analysis_](https://github.com/OliRC07/NIST-activity)
- - [Linux commands to manage file permissions]
+ - [Linux commands to manage file permissions](https://github.com/OliRC07/file-permissions-in-Linux)
  
 
 <h2>🎓 Certifications and diplomas </h2>
