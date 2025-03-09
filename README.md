@@ -3,7 +3,7 @@
  Drawn to cybersecurity for its ethical impact and growing role in society, <b>I like to bring curiosity, creativity, and resilience to solving challenges</b>.
  My communication skills and commitment to accessibility will help demystify cybersecurity, while my team spirit and project management abilities will support structured and effective security initiatives.
  
- <h2>👨‍💻 Some of my cybersecurity projects :</h2>
+ <h2>👨‍💻 Some of my cybersecurity projects:</h2>
 
  - [Security audit](https://github.com/OliRC07/BotiumToysAudit)
  - [Network traffic analysis](https://github.com/OliRC07/IncidentReport-NetworkTrafficAnalysis)
