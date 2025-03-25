@@ -8,7 +8,7 @@
  - [Security audit](https://github.com/OliRC07/BotiumToysAudit)
  - [Network traffic analysis](https://github.com/OliRC07/IncidentReport-NetworkTrafficAnalysis)
  - [NIST Incident report analysis](https://github.com/OliRC07/NIST-activity)
- - [Linux commands to manage file permissions](https://github.com/OliRC07/file-permissions-in-Linux)
+ - [Files permissions on Linux](https://github.com/OliRC07/file-permissions-in-Linux)
  - [Filters Application for SQL queries](https://github.com/OliRC07/FiltersApplication-SQLqueries)
  - [Vulnerability assessment report](https://github.com/OliRC07/Vulnerability-assessment-report)
  
