@@ -11,11 +11,12 @@
  - [Files permissions on Linux](https://github.com/OliRC07/file-permissions-in-Linux)
  - [Filters Application for SQL queries](https://github.com/OliRC07/FiltersApplication-SQLqueries)
  - [Vulnerability assessment report](https://github.com/OliRC07/Vulnerability-assessment-report)
+ - [Updating file through Python algorithms](https://github.com/OliRC07/Updating-files-with-Python-algorithm)
  
 
 <h2>🎓 Certifications and diplomas </h2>
 
-- Google Cybersecurity Professional Certificate (course ongoing) 
+- Google Cybersecurity Professional Certificate 
 - MBA at Kedge Business School
 - IBM Introduction to Agile and Scrum Certificate
 
