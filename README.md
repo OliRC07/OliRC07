@@ -1,4 +1,4 @@
-<h1>Hi, I'm Olivier! <br/>Looking for an entry-level cybersecurity analyst job!</h1>
+<h1>Hi, I'm Olivier! <br/>Looking for a cybersecurity analyst job!</h1>
 
  Drawn to cybersecurity for its ethical impact and growing role in society, <b>I like to bring curiosity, creativity, and resilience to solving challenges</b>.
  My communication skills and commitment to accessibility will help demystify cybersecurity, while my team spirit and project management abilities will support structured and effective security initiatives.
